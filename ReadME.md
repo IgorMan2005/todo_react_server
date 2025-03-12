@@ -1,5 +1,7 @@
 # ToDo React JSON Server
 
+<https://best-ordinary-airboat.glitch.me/todoData>
+
 ```
 git remote add origin git@github.com:IgorMan2005/todo_react_server.git
 git branch -M main
@@ -30,8 +32,13 @@ NpmJs:
 
 ## ToDo React JSON Server на на glitch
 
-Деплой и запуск json-server на glitch
+Деплой и запуск json-server на glitch:
+<https://glitch.com/>
 
-New project - Import from GitHub:
+1. Login Github
 
-<https://github.com/IgorMan2005/todo_react_server.git>
+2. New project
+
+3. Import from GitHub: <https://github.com/IgorMan2005/todo_react_server.git>
+
+Result: <https://best-ordinary-airboat.glitch.me/todoData>
